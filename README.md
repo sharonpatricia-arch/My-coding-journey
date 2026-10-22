@@ -10,10 +10,10 @@ Welcome to my coding journey! I'm a first-year Computer Science Engineering stud
 
 ## 📚 LeetCode Practice
 
-| Problem           | Language | Status     |
-|-------------------------------------------|
-| Palindrome Number | C        | ✅ Solved |
-| Fizz Buzz         | C        | ✅ Solved |
+| Problem | Language | Status |
+|---|---|---|
+| Palindrome Number | C | ✅ Solved |
+| Fizz Buzz | C | ✅ Solved |
 
 ## 🎯 My Goals
 - Strengthen my programming fundamentals
